@@ -33,7 +33,7 @@ Examples of calls made to Energy Information Administration API for gathering en
 [EIA API Calls Notebook](EIA_API_Interaction.ipynb)
 
 #### Output
-[Petroleum Example](outputs/petroleumOuput.json)
+[Petroleum Example](outputs/petroleumOutput.json)
 
 ### 4. YahooFinance Library - Stock Price Data
 
