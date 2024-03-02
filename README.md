@@ -45,9 +45,9 @@ Snippet of use of yfinance library in python to gather data on stock prices to b
 Examples of js code run in console on chrome to get well formatted currency, commodities, etc. data. Third code snippet fetches a dictionary with key-value pairs of article title and link to allow for further filtering, information gathering, or language processing. (Working as of 02/29/2024)
 
 #### Code Snippet Examples
-[Trading Economics Graph Data](miscellaneous/highchars.js)
-[Bloomberg Tables](miscellaneous/bloombergTableDataAny.js)
-[Bloomberg Articles](miscellaneous/bloombergArticle.js)
+[Trading Economics Graph Data](Browser Based/highchars.js)
+[Bloomberg Tables](Browser Based/bloombergTableDataAny.js)
+[Bloomberg Articles](Browser Based/bloombergArticle.js)
 
 #### Output
 
