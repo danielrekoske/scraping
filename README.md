@@ -12,7 +12,7 @@ Grabs annual or quarterly reports from Walt Disney investor relations reports an
 [Walt Disney Notebook](waltDisney.ipynb)
 
 #### Output
-[PDF Example](outputs/2023-Annual-Report.pdf)
+[PDF Example](outputs/2023-Annual-Report.pdf) \
 [CSV Example](outputs/2023-Annual-Report.csv)
 
 ### 2. Scraping Chess.com Computer Games Database
