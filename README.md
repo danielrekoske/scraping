@@ -6,7 +6,7 @@ Compilation of various code snippets used to scrape data from different sources 
 
 ### 1. Walt Disney Investor Relations Data
 
-Grabs annual or quarterly reports from Walt Disney investor relations reports and downloads them. Iterates through the pdfs in directory and converts all tabled numbers into 1 csv file for the report. (Winter 2023)
+Grabs annual or quarterly reports from Walt Disney investor relations reports and downloads them. Iterates through the pdfs in directory and converts all tabled numbers into 1 csv file for the report. (Winter 2024)
 
 #### Notebook
 [Walt Disney Notebook](waltDisney.ipynb)
