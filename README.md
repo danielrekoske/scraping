@@ -55,7 +55,7 @@ Examples of js code run in console on chrome to get well formatted currency, com
 [Bloomberg Articles](BrowserBased/bloombergArticle.js)
 
 #### Output
-Browser based, outputs either a clickable link to console or a js object
+Browser based; outputs either a clickable link to console or a js object.
 
 
 
