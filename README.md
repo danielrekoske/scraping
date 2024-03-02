@@ -6,7 +6,7 @@ Compilation of various code snippets used to scrape data from different sources 
 
 ### 1. Walt Disney Investor Relations Data
 
-Grabs annual or quarterly reports from Walt Disney investor relations reports and downloads them. Iterates through the pdfs in directory and converts all tabled numbers into 1 csv file for the report. 
+Grabs annual or quarterly reports from Walt Disney investor relations reports and downloads them. Iterates through the pdfs in directory and converts all tabled numbers into 1 csv file for the report. (Winter 2023)
 
 #### Notebook
 [Walt Disney Notebook](waltDisney.ipynb)
@@ -15,7 +15,7 @@ Grabs annual or quarterly reports from Walt Disney investor relations reports an
 
 ### 2. Scraping Chess.com Computer Games Database
 
-Simulates browser use through selenium, selecting and downloading games played in the computer chess championship.
+Simulates browser use through selenium, selecting and downloading games played in the computer chess championship. (Summer 2023)
 
 #### Notebook
 [Chess.com Notebook](scrapingCompChess.ipynb)
@@ -24,7 +24,7 @@ Simulates browser use through selenium, selecting and downloading games played i
 
 ### 3. API calls to EIA API for Petroleum Prices
 
-Examples of calls made to Energy Information Administration API for gathering energy related pricing data over various time periods.
+Examples of calls made to Energy Information Administration API for gathering energy related pricing data over various time periods. (Fall 2023)
 
 #### Notebook
 [EIA API Calls Notebook](EIA_API_Interaction.ipynb)
@@ -33,7 +33,7 @@ Examples of calls made to Energy Information Administration API for gathering en
 
 ### 4. YahooFinance Library - Stock Price Data
 
-Snippet of use of yfinance library in python to gather data on stock prices to be used in a time series analysis of the S&P500.
+Snippet of use of yfinance library in python to gather data on stock prices to be used in a time series analysis of the S&P500. (Summer 2023)
 
 #### Notebook 
 [yFinance Notebook](yfinancelibrary.ipynb)
