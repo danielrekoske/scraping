@@ -42,12 +42,12 @@ Snippet of use of yfinance library in python to gather data on stock prices to b
 
 ### 5. Miscellaneous Browser-Console Code Examples to Fetch Graph/Table/Article Data
 
-Examples of js code ran in console on chrome to get well formatted currecy, commodities, etc. data. Thrid code snippet fetches a dictionary with key-value pairs of article title and link to allow for further filtering, information gathering, or language processing. (Working as of 02/29/2024)
+Examples of js code run in console on chrome to get well formatted currency, commodities, etc. data. Third code snippet fetches a dictionary with key-value pairs of article title and link to allow for further filtering, information gathering, or language processing. (Working as of 02/29/2024)
 
 #### Code Snippet Examples
-[Trading Economics Graph Data](highchars.js)
-[Bloomberg Tables](bloombergTableDataAny.js)
-[Bloomberg Articles](bloombergArticle.js)
+[Trading Economics Graph Data](miscellaneous/highchars.js)
+[Bloomberg Tables](miscellaneous/bloombergTableDataAny.js)
+[Bloomberg Articles](miscellaneous/bloombergArticle.js)
 
 #### Output
 
