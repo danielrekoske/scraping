@@ -12,6 +12,8 @@ Grabs annual or quarterly reports from Walt Disney investor relations reports an
 [Walt Disney Notebook](waltDisney.ipynb)
 
 #### Output
+[PDF Example](outputs/2023-Annual-Report.pdf)
+[CSV Example](outputs/2023-Annual-Report.csv)
 
 ### 2. Scraping Chess.com Computer Games Database
 
@@ -21,6 +23,7 @@ Simulates browser use through selenium, selecting and downloading games played i
 [Chess.com Notebook](scrapingCompChess.ipynb)
 
 #### Output
+[Chess Games Example](outputs/chessGames.pgn)
 
 ### 3. API calls to EIA API for Petroleum Prices
 
@@ -30,6 +33,7 @@ Examples of calls made to Energy Information Administration API for gathering en
 [EIA API Calls Notebook](EIA_API_Interaction.ipynb)
 
 #### Output
+[Petroleum Example](outputs/petroleumOuput.json)
 
 ### 4. YahooFinance Library - Stock Price Data
 
@@ -39,6 +43,7 @@ Snippet of use of yfinance library in python to gather data on stock prices to b
 [yFinance Notebook](yfinancelibrary.ipynb)
 
 #### Output
+[S&P 500 Example](outputs/s_and_p_data.csv)
 
 ### 5. Miscellaneous Browser-Console Code Examples to Fetch Graph/Table/Article Data
 
@@ -50,6 +55,7 @@ Examples of js code run in console on chrome to get well formatted currency, com
 [Bloomberg Articles](BrowserBased/bloombergArticle.js)
 
 #### Output
+Browser based, outputs either a clickable link to console or a js object
 
 
 
