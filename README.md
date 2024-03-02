@@ -4,9 +4,9 @@ Compilation of various code snippets used to scrape data from different sources 
 
 ## Code Snippets
 
-### 1. Walt Disney Investor Realtions Data
+### 1. Walt Disney Investor Relations Data
 
-Grabs annual or quarterly reports from walt disney investor realtions report and download them. Iterates through the pdfs in directory and converts all tabled numbers into 1 csv file for the report. 
+Grabs annual or quarterly reports from Walt Disney investor relations reports and downloads them. Iterates through the pdfs in directory and converts all tabled numbers into 1 csv file for the report. 
 
 #### Notebook
 [Walt Disney Notebook](waltDisney.ipynb)
@@ -42,7 +42,7 @@ Snippet of use of yfinance library in python to gather data on stock prices to b
 
 ### 5. Miscellaneous Browser-Console Code Examples to Fetch Graph/Table/Article Data
 
-Examples of js code ran in console on chrome to get well formatted currecy, commodities, etc. data. Thrid code snippet fetches a dictionary with key-value pairs of article title and link to allow for further filtering, information gathering, or language processing. 
+Examples of js code ran in console on chrome to get well formatted currecy, commodities, etc. data. Thrid code snippet fetches a dictionary with key-value pairs of article title and link to allow for further filtering, information gathering, or language processing. (Working as of 02/29/2024)
 
 #### Code Snippet Examples
 [Trading Economics Graph Data](highchars.js)
